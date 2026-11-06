@@ -30,7 +30,7 @@ Agricultural drone operators juggle many things outside the flight controller: r
 
 ## License
 
-GPL-3.0 (see [LICENSE](LICENSE)). Open question: [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html) additionally requires network-hosted forks to publish their source, which suits a self-hosted web service; GPL-3.0 does not. See [docs/roadmap.md](docs/roadmap.md).
+[AGPL-3.0](LICENSE). It keeps hosted forks open (network users can get the source) and permits reuse of AGPL and MIT components.
 
 ## Contributing
 

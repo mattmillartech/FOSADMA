@@ -2,7 +2,7 @@
 
 ## Open questions
 
-- [ ] License: GPL-3.0 is in place. Decide whether to switch to AGPL-3.0 to cover network-hosted forks, before any outside contributions arrive (relicensing later needs contributor consent).
+- [x] License: AGPL-3.0 (switched from the initial GPL-3.0 on 2026-11-06, before any outside contributions).
 - [ ] Is the operating site in controlled airspace? This decides whether each flight needs an ATC/NAV Drone authorization.
 - [ ] Ontario pesticide applicator licensing for drone application.
 - [ ] Real Agras controller logs and SmartFarm `.xlsx`/KML exports to test against dji-log-parser (needs an aircraft owner to contribute samples; strip location data first).
