@@ -10,6 +10,8 @@
 - [ ] Client-side local-first database choice (must work offline, sync to SQLite/D1).
 - [ ] First jurisdiction rule pack format and verification workflow.
 
+- [ ] Enumerate the legal floor (every pre-flight, in-flight and post-flight obligation, with citations) before drafting default checklists; tracked in the GitHub issues.
+
 ## Proposed milestones
 
 1. **Data model + MCP tool list** (spec only): entities for aircraft, pilot credentials and recency, sites/fields, checklists and runs, products and labels, tank mixes, jobs, application records, weather snapshots, audit events.

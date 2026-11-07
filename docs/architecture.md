@@ -22,7 +22,7 @@ Local-first client database synced to a small server behind a **storage adapter*
 
 ## 4. Domain packs (versioned, cited data)
 
-Aircraft spec packs, checklist templates, jurisdiction rule packs (first: Canada/Ontario), product/label library. Every rule carries a source link and a "last verified" date; rules such as manufacturer declaration listings are re-checked on a schedule because they can change.
+Aircraft spec packs, checklist templates, jurisdiction rule packs (first: Canada/Ontario), product/label library. Every rule is tagged as a **legal requirement** (with a source link) or an **operator preference**. Default checklists contain legal requirements only; the owner can add preference items, but cannot remove legal ones. Every rule carries a source link and a "last verified" date; rules such as manufacturer declaration listings are re-checked on a schedule because they can change.
 
 ## 5. Deployment targets
 

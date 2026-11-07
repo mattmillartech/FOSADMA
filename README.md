@@ -18,6 +18,7 @@ Agricultural drone operators juggle many things outside the flight controller: r
 6. **Self-hostable on free services or private hardware**, with templates and instructions for each. See the Cloudflare free-plan analysis in the architecture doc.
 7. **Domain knowledge as versioned, cited data, not code:** aircraft spec packs, checklist templates, jurisdiction rule packs, product/label library.
 8. **Jurisdiction-pluggable.** Canada (Ontario) is the first rule pack because that is where the author operates; the model must not hard-code it.
+9. **Legal floor first, then owner preference.** The default checklists contain only what the law requires, each item citing the exact regulation, standard or product label. Anything beyond that is the owner's own addition, clearly tagged as preference. Legal items cannot be removed from the UI or by an agent.
 
 ## Documents
 
